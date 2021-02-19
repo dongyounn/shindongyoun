@@ -10,12 +10,15 @@ I'm DongYoun Shin, a Back-End developer. 🌱 <br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-brightgreen.svg?&style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-blue.svg?&style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-blue.svg?&style=flat-square&logo=Java&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SpringBoot-brightgreen.svg?&style=flat-square&logo=spring&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitLab-orange.svg?&style=flat-square&logo=GitLab&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Elasticsearch-blue.svg?&style=flat-square&logo=Elasticsearch&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/jenkins-blue.svg?&style=flat-square&logo=jenkins&logoColor=white"/>&nbsp;&nbsp;
-  <img src ="https://img.shields.io/badge/Oracle-red.svg?&style=flat-square&logo=oracle&logoColor=white"/>&nbsp;&nbsp;
-  <img src ="https://img.shields.io/badge/RabbitMQ-orange.svg?&style=flat-square&logo=RabbitMQ&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Oracle-red.svg?&style=flat-square&logo=oracle&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/RabbitMQ-orange.svg?&style=flat-square&logo=RabbitMQ&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker-blue.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
