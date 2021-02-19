@@ -22,15 +22,6 @@ I'm DongYoun Shin, a Back-End developer. 🌱 <br>
 
 <h3 align="center">•••</h3>
 
-<p align="center" align="right">
-  <a target="_blank" href="https://hadong.dev/TIL"><img src="http://img.shields.io/badge/-TIL-yellow?style=flat-square&logo=github&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://metleeha.tistory.com"><img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=flat-square&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-<p align="center" align="right">
-    <a target="_blank" href="https://www.linkedin.com/in/hadongme/"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
-    <a target="_blank" target="_blank"href="https://twitter.com/hadonglee"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="mailto:hadongme@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
 <p align="center">
   <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmetleeha%2Fhit-counter&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
 </p>
