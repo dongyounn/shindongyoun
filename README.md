@@ -2,4 +2,4 @@
 <p align='center'> BackEnd Developer </p>
 
 
-[![Top Langs](https://github.com/shindongyoun)](https://github.com/shindongyoun)
+[![](https://raw.githubusercontent.com/shindongyoun/shindongyoun/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
