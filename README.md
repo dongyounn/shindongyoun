@@ -24,6 +24,15 @@ I'm DongYoun Shin, a Back-End developer. 🌱 <br>
 
 <h3 align="center">•••</h3>
 
+<div align="center">
+
+[![Generic badge](https://img.shields.io/badge/GitHub_ToyProject_Kotto-orange.svg?&style=flat-square&logo=git&logoColor=white&link=https://github.com/shindongyoun/Kotto)](https://github.com/shindongyoun/Kotto)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dyshin1027@gmail.com)](mailto:dyshin1027@gmail.com)
+
+</div>
+
+<h3 align="center">•••</h3>
+
 <p align="center">
   <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshindongyoun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=fals"/></a>
 </p>
