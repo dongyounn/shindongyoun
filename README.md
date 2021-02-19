@@ -9,14 +9,13 @@ I'm DongYoun Shin, a Back-End developer. 🌱 <br>
 <h3 align="center">✨ Tech Stack ✨ </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/kotlin%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Kotlin%20-%2320232a.svg?&style=flat-square&logo=Kotlin&logoColor=%2361DAFB"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java%20-%2343853D.svg?&style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=flat-square&logo=jenkins&logoColor=white"/>&nbsp;&nbsp;
-  <img src ="https://img.shields.io/badge/oracle-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
-  <img src ="https://img.shields.io/badge/RabbitMQ-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
+  <img src ="https://img.shields.io/badge/Oracle-%23316192.svg?&style=flat-square&logo=oracle&logoColor=white"/>&nbsp;&nbsp;
+  <img src ="https://img.shields.io/badge/RabbitMQ-%234ea94b.svg?&style=flat-square&logo=RabbitMQ&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
