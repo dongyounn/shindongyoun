@@ -9,7 +9,7 @@ I'm DongYoun Shin, a Back-End developer. 🌱 <br>
 <h3 align="center">✨ Tech Stack ✨ </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin%20-%2320232a.svg?&style=flat-square&logo=Kotlin&logoColor=%2361DAFB"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Kotlin%20-%2320232a.svg?&style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java%20-%2343853D.svg?&style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
