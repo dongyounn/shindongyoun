@@ -28,6 +28,13 @@ I'm DongYoun Shin, a Back-End developer. 🌱 <br>
 
 [![Generic badge](https://img.shields.io/badge/ToyProject_Kotto-orange.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/shindongyoun/Kotto)](https://github.com/shindongyoun/Kotto)
 [![Generic badge](https://img.shields.io/badge/KotlinStudy-blue.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/shindongyoun/koding_study)](https://github.com/shindongyoun/koding_study)
+
+</div>
+
+<h3 align="center">•••</h3>
+
+<div align="center">
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dyshin1027@gmail.com)](mailto:dyshin1027@gmail.com)
 
 </div>
