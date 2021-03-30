@@ -27,9 +27,8 @@ I'm DongYoun Shin, a Back-End developer. 🌱 <br>
 <div align="center">
 
 [![Generic badge](https://img.shields.io/badge/ToyProject_Kotto-orange.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/shindongyoun/Kotto)](https://github.com/shindongyoun/Kotto)
-[![Generic badge](https://img.shields.io/badge/KotlinStudy-blue.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/shindongyoun/koding_study)](https://github.com/shindongyoun/koding_study)
 [![Generic badge](https://img.shields.io/badge/ToyProject_Juso_batch-green.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/shindongyoun/AddressKotlinBatch)](https://github.com/shindongyoun/AddressKotlinBatch)
-
+[![Generic badge](https://img.shields.io/badge/KotlinStudy-blue.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/shindongyoun/koding_study)](https://github.com/shindongyoun/koding_study)
 </div>
 
 <h3 align="center">•••</h3>
