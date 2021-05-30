@@ -21,6 +21,10 @@ I'm DongYoun Shin, a Back-End developer. 🌱 <br>
   <img src="https://img.shields.io/badge/RabbitMQ-orange.svg?&style=flat-square&logo=RabbitMQ&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker-blue.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kafka-blue.svg?&style=flat-square&logo=apache-kafka&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Logstash-yellowgreen.svg?&style=flat-square&logo=logstash&logoColor=white"/>&nbsp;&nbsp;
+</p>
 
 <h3 align="center">•••</h3>
 
