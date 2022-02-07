@@ -6,36 +6,6 @@
 I'm DongYoun Shin, a Back-End developer. 🌱 <br>
 </p>
 
-<h3 align="center">✨ Tech Stack ✨ </h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-brightgreen.svg?&style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-blue.svg?&style=flat-square&logo=Java&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SpringBoot-yellowgreen.svg?&style=flat-square&logo=spring&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitLab-orange.svg?&style=flat-square&logo=GitLab&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Elasticsearch-blueviolet.svg?&style=flat-square&logo=Elasticsearch&logoColor=white"/>&nbsp;&nbsp;
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/jenkins-9cf.svg?&style=flat-square&logo=jenkins&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Oracle-red.svg?&style=flat-square&logo=oracle&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/RabbitMQ-orange.svg?&style=flat-square&logo=RabbitMQ&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/docker-blue.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kafka-blue.svg?&style=flat-square&logo=apache-kafka&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Logstash-yellowgreen.svg?&style=flat-square&logo=logstash&logoColor=white"/>&nbsp;&nbsp;
-</p>
-
-<h3 align="center">•••</h3>
-
-<div align="center">
-
-[![Generic badge](https://img.shields.io/badge/ToyProject_Kotto-orange.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/shindongyoun/Kotto)](https://github.com/shindongyoun/Kotto)
-[![Generic badge](https://img.shields.io/badge/ToyProject_Juso_batch-green.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/shindongyoun/AddressKotlinBatch)](https://github.com/shindongyoun/AddressKotlinBatch)
-[![Generic badge](https://img.shields.io/badge/KotlinStudy-blue.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/shindongyoun/koding_study)](https://github.com/shindongyoun/koding_study)
-</div>
-
-<h3 align="center">•••</h3>
 
 <div align="center">
 
