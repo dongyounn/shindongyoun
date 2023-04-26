@@ -15,6 +15,26 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/shindongyoun/shindongyoun/main/profile-summary-card-output/swift/0-profile-details.svg)
+```
+
+    
+
+---
+
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/shindongyoun/shindongyoun/main/profile-summary-card-output/swift/1-repos-per-language.svg)
+```
+
+    
+
+---
+
 ![](./2-most-commit-language.svg)
 
 ```
@@ -29,6 +49,16 @@
 
 ```
 ![](https://raw.githubusercontent.com/shindongyoun/shindongyoun/main/profile-summary-card-output/swift/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/shindongyoun/shindongyoun/main/profile-summary-card-output/swift/4-productive-time.svg)
 ```
 
     
